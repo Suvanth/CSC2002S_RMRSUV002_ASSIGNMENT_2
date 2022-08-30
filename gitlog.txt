@@ -1,0 +1,95 @@
+commit f35c79d9298ec8d1de79c6966180730ed5314d6b
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 20:40:07 2020 +0200
+
+    parallel version
+
+commit 7af3c658318f8f75b4f1f36855516bb8c1ac6b2f
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 20:01:33 2020 +0200
+
+    Implemented atomic variable for counter
+
+commit 477f362b76b3154f816e852e80c295624f1bd048
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 17:14:50 2020 +0200
+
+    Fixed bug
+
+commit b998f1c831372d5a95ed6361dc0862cdc55f4950
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 15:50:16 2020 +0200
+
+    Water is flowing too fast bug in algorithm
+
+commit d846826f35a757ef011b49650151e8c3e6fdbe2a
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 01:52:27 2020 +0200
+
+    Added code to add shades to indicate water depth
+
+commit 550418c854531cda16a5ce51c872e7c55297528f
+Author: suvan <rsuvanth@gmail.com>
+Date:   Thu Sep 17 01:19:13 2020 +0200
+
+    Polishing sequential version and fixing bugs
+
+commit b8dd29c55b27ebed769d901693bd8981ccb6dccf
+Author: suvan <rsuvanth@gmail.com>
+Date:   Wed Sep 16 11:48:17 2020 +0200
+
+    Implemented a sequential version of the program, buttons yet to be implemented
+
+commit 56fa66fb9300266fc00a460df7cf3935749c7e24
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 22:08:05 2020 +0200
+
+    Made water static
+
+commit 1cf8707206471c647f8ac37405e3504fd108f1fe
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 21:33:08 2020 +0200
+
+    Added painting water on click
+
+commit 59e1ffd1b6d188c007f11e9e26e8d6d8eff8ecd1
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 21:32:21 2020 +0200
+
+    Added painting water on click
+
+commit 60d6f3408876dde1c11b3f05d5981ceac7bdfaac
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 20:55:20 2020 +0200
+
+    Buttons added to frame, no function yet
+
+commit c6b956e44c219943451d81759ee2985faeac126f
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 20:18:05 2020 +0200
+
+    Added initialisation of water array and increment, decrement, reset methodology
+
+commit e77a10ef416535e4ea59a983c890ee9fb50b7bc3
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 19:55:34 2020 +0200
+
+    Created Water Class currently empty
+
+commit 193cc11cc23543836fc4f4efe67592a6b1252098
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 19:54:00 2020 +0200
+
+    Created method to change the buffer images color back to its original rgb value, adapted from the derive method
+
+commit 5acb3d273bd8f6d1f04d35c203ea9722abfb8ff7
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 19:45:01 2020 +0200
+
+    Added all files to the FlowSkeleton Package
+
+commit 93a31c25a08dad591043adf84dfc8dbcf26dc8eb
+Author: suvan <rsuvanth@gmail.com>
+Date:   Tue Sep 15 19:44:08 2020 +0200
+
+    Added skeleton code
